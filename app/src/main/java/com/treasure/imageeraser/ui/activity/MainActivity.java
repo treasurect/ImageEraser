@@ -24,11 +24,14 @@ public class MainActivity extends BaseActivity {
 
     }
 
-    @OnClick({R.id.btn_eraser_bmp})
+    @OnClick({R.id.btn_eraser_bmp,R.id.btn_eraser_palette})
     public void onViewClick(View view){
         switch (view.getId()) {
             case R.id.btn_eraser_bmp:
                 startActivity(new Intent(MainActivity.this,BitmapEraserActivity.class));
+                break;
+            case R.id.btn_eraser_palette:
+                startActivity(new Intent(MainActivity.this,PaletteEraserActivity.class));
                 break;
         }
     }

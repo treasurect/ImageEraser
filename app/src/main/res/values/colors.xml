@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorWhite">#FFFFFF</color>
+    <drawable name="toolbar_bg">#30000000</drawable>
+    <color name="theme_color_primary">#369BB5</color>
+    <color name="theme_color_primary_pressed">#057390</color>
 </resources>
