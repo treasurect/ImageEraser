@@ -21,6 +21,7 @@
 ![art](https://github.com/treasurect/ImageEraser/blob/master/art/pic_palette_pen.png)
 
 2）橡皮擦
+
 ![art](https://github.com/treasurect/ImageEraser/blob/master/art/pic_palette_eraser.png)
 
 3)预览模式
